@@ -1,0 +1,30 @@
+/* heading */
+div.st-emotion-cache-asc41u.e1nzilvr2 > h1 {
+    background-color: #c663e9;
+    text-align: center;
+    border-radius: 100px;
+}
+/*Background color */
+section.main.st-emotion-cache-bm2z3a.ea3mdgi8 {
+    background-color: rgb(235, 239, 242);
+}
+
+
+/* upper section */
+header.st-emotion-cache-12fmjuu.ezrtsby2 {
+    background-color: antiquewhite;
+}
+
+/* sidebar */
+div.st-emotion-cache-6qob1r.eczjsme8 {
+    background-color: lightpink;
+}
+/* on click color change */
+div > a.st-emotion-cache-nziaof.eczjsme11 > .st-emotion-cache-nziaof:active, .st-emotion-cache-nziaof:hover, .st-emotion-cache-nziaof:visited {
+    background-color: crimson;
+}
+
+div > a.st-emotion-cache-18l0hbk.eczjsme11 > .st-emotion-cache-18l0hbk:active, .st-emotion-cache-18l0hbk:visited, .st-emotion-cache-18l0hbk:hover{
+    background-color: crimson;
+}
+
