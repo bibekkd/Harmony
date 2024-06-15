@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("Welcome to Harmony 🧑‍🏫👋")
+st.title("Welcome to Harmony !")
 st.write(" ")
 st.image("bgimg2.png")
 

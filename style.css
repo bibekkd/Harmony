@@ -1,6 +1,6 @@
 /* heading */
 div.st-emotion-cache-asc41u.e1nzilvr2 > h1 {
-    background-color: #c663e9;
+    background-color: lightskyblue;
     text-align: center;
     border-radius: 100px;
 }
@@ -28,3 +28,34 @@ div > a.st-emotion-cache-18l0hbk.eczjsme11 > .st-emotion-cache-18l0hbk:active, .
     background-color: crimson;
 }
 
+div.st-emotion-cache-asc41u.e1nzilvr2 > h2{
+    text-align: center;
+    background-color: lightskyblue;
+    border-radius: 100px;
+}
+
+button.st-emotion-cache-7ym5gk.ef3psqc12 {
+    background-color: rgb(223, 162, 232);
+}
+
+div.row-widget.stButton
+{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+div.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ak.st-al.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9.st-b6 {
+    border-bottom-color: rgb(130, 236, 118);
+}
+
+div.st-ae.st-af.st-ag.st-ah.st-ai.st-aj.st-ak.st-al.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-ax.st-ay.st-az.st-b0.st-b1.st-b2.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9.st-b7 {
+    border-top-color: rgb(135, 65, 240);
+}
+
+div.st-ae.st-af.st-ag.st-ah.st-by.st-bz.st-c0.st-c1.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9.st-b6 {
+    border-bottom-color: rgb(130, 236, 118);
+}
+
+div.st-ae.st-af.st-ag.st-ah.st-by.st-bz.st-c0.st-c1.st-am.st-an.st-ao.st-ap.st-aq.st-ar.st-as.st-at.st-au.st-av.st-aw.st-b3.st-b4.st-b5.st-b6.st-b7.st-b8.st-b9.st-b6 {
+    border-top-color: rgb(135, 65, 240);
+}

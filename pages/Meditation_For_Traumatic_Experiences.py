@@ -3,6 +3,10 @@ from pymongo import MongoClient
 import openai
 import uuid
 
+with open('style.css') as f:
+    st.markdown(f"<style>{f.read()}</style>", unsafe_allow_html=True)
+
+
 # Azure OpenAI API configuration
 OPENAI_API_KEY = "your_openai_api_key"
 openai.api_key = OPENAI_API_KEY
